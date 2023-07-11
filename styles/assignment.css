@@ -1,0 +1,34 @@
+.header{
+    background-color: #E5547310;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: space-between;
+    padding: 20px;
+}
+.header-button{
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 20px 43px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+.header-description{
+    color: #27272760;
+    margin: 25px 0px;
+    width: 100px 00px;
+}
+.header-title{
+    color: #272727;
+    margin: 5px;
+    font-weight: 1300;
+    font-size: 300%;
+}
+.header-elements{
+    padding: 80px 0px 80px 80px;
+}
+.bg-image{
+    padding-right: 50px;
+    width: 300px;
+    margin-right: 150px;
+}
