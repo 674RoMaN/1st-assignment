@@ -106,3 +106,45 @@ span{
     margin-right:115px ;
     width: 250px;
 }
+.bg-flower-header{
+    text-align: center;
+    color: #272727;
+    padding-top: 100px;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 0px;
+
+}
+.bg-flower-description{
+    text-align: center;
+    color: #27272760;
+    padding-bottom: 10px;
+    margin: 25px;
+}
+.bg-flower{
+    background-image: url(../styles/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin-left:115px ;
+    margin-right:115px ;
+    background-size: contain;
+    margin-bottom: 115px;
+}
+.bg-button-button{
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 15px 43px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.bg-button-email{
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 200px;
+    width: 500px;
+    text-align: left;
+    margin-bottom: 100px;
+}
