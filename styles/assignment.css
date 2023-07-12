@@ -54,27 +54,47 @@ body{
 .flower-main{
     display: flex;
     justify-content: space-between;
-    margin-left:115px ;
-    margin-right:115px ;
-    margin-top: 80px;
-    padding: 10px;
+    margin: 80px 115px 0px 115px;
 }
 .flower-main-1{
     background-color: #A7216215;
+    margin: 10px 10px 10px 0px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    padding: 100px 70px 0px 70px;
+    width: 230px;
+
 }
 .flower-main-2{
     background-color: #0597A015;
+    margin: 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    padding: 100px 70px 50px 70px;
+    width: 230px;
 }
 .flower-main-3{
     background-color: #477D1115;
+    margin:10px 00px 10px 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    padding: 100px 70px 0px 70px;
+    width: 230px;
 }
 
-/* .fig-caption{ 
+.fig-caption{ 
     display: flex;
     justify-content: space-between;
-    margin-left:115px ;
-}*/
-
+    padding: 0px 200px 0px 250px;
+    text-decoration: underline;
+}
+.flower-suppory{
+    display: flex;
+    justify-content: space-between;
+    margin: 250px 115px;
+    padding: 50px;
+    background-color: #27272705;
+}
 .hot-deal-title{
     color: #272727;
     margin: 5px;
@@ -85,7 +105,7 @@ body{
     margin-top: 100px;
     color: #27272760;
     margin: 25px 0px;
-    max-width: 600px;
+    width: 600px;
     text-align: center;
 }
 .hot-deal{
