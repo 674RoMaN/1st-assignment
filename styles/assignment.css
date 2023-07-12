@@ -62,7 +62,7 @@ body{
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     padding: 100px 70px 0px 70px;
-    width: 230px;
+    width: 220px;
 
 }
 .flower-main-2{
@@ -71,7 +71,7 @@ body{
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     padding: 100px 70px 50px 70px;
-    width: 230px;
+    width: 220px;
 }
 .flower-main-3{
     background-color: #477D1115;
@@ -79,7 +79,7 @@ body{
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     padding: 100px 70px 0px 70px;
-    width: 230px;
+    width: 220px;
 }
 
 .fig-caption{ 
@@ -87,13 +87,20 @@ body{
     justify-content: space-between;
     padding: 0px 200px 0px 250px;
     text-decoration: underline;
+    color: #272727;
+    font-weight: 700;
 }
-.flower-suppory{
+.flower-support{
     display: flex;
     justify-content: space-between;
-    margin: 250px 115px;
-    padding: 50px;
+    margin: 150px 115px;
+    padding: 50px 150px;
     background-color: #27272705;
+}
+.flower-support-1, .flower-support-2, .flower-support-3{
+    text-align: center;
+    color: #27272780;
+    font-weight: 700;
 }
 .hot-deal-title{
     color: #272727;
@@ -219,6 +226,7 @@ span{
     color: #FFFFFF;
     background-color: #111010;;
     margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 .footer-header{
     padding-top: 100px;
