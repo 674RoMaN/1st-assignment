@@ -1,13 +1,14 @@
 body{
     font-family: 'Open Sans', sans-serif;
     margin: 0px;
+    padding: 0px;
 }
 .header{
     background-color: #E5547310;
     display: flex;
     font-family: 'Open Sans', sans-serif;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px 20px 00px 20px;
 }
 .header-button{
     background-color: #E55473;
