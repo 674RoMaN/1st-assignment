@@ -141,9 +141,6 @@ body{
     padding: 10px;
     border-radius: 50px;
 }
-.name{
-    justify-content: space-between;
-}
 .hot-deal-title{
     color: #272727;
     margin: 5px;
