@@ -103,6 +103,47 @@ body{
     color: #27272780;
     font-weight: 700;
 }
+.shop-by-catagory-title{
+    text-align: center;
+    color: #272727;
+    margin: 50px;
+    font-weight: 800;
+    font-size: 200%;
+}
+.catagory-flower{
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+
+}
+.catagory-flower-1{
+    margin-left:115px ;
+    margin-right: 20px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.catagory-flower-2{
+    margin-right: 20px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.catagory-flower-3{
+    margin-right: 20px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.catagoty-flower-4{
+    margin-right:115px ;
+    width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.name{
+    justify-content: space-between;
+}
 .hot-deal-title{
     color: #272727;
     margin: 5px;
